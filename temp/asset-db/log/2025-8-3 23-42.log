@@ -146,3 +146,39 @@
 2025-8-3 23:42:35-debug: asset-db:refresh-all-database (32ms)
 2025-8-3 23:42:35-debug: asset-db:worker-effect-data-processing (1ms)
 2025-8-3 23:42:35-debug: asset-db-hook-engine-extends-afterRefresh (1ms)
+2025-8-3 23:43:10-debug: refresh db internal success
+2025-8-3 23:43:10-debug: refresh db assets success
+2025-8-3 23:43:10-debug: Run asset db hook engine-extends:afterRefresh ...
+2025-8-3 23:43:10-debug: Run asset db hook engine-extends:afterRefresh success!
+2025-8-3 23:43:10-debug: asset-db:refresh-all-database (24ms)
+2025-8-3 23:43:16-debug: refresh db internal success
+2025-8-3 23:43:16-debug: refresh db assets success
+2025-8-3 23:43:16-debug: Run asset db hook engine-extends:afterRefresh ...
+2025-8-3 23:43:16-debug: Run asset db hook engine-extends:afterRefresh success!
+2025-8-3 23:43:16-debug: asset-db:refresh-all-database (32ms)
+2025-8-3 23:44:24-debug: refresh db internal success
+2025-8-3 23:44:24-debug: refresh db assets success
+2025-8-3 23:44:24-debug: Run asset db hook engine-extends:afterRefresh ...
+2025-8-3 23:44:24-debug: Run asset db hook engine-extends:afterRefresh success!
+2025-8-3 23:44:24-debug: asset-db:refresh-all-database (27ms)
+2025-8-3 23:44:24-debug: asset-db:worker-effect-data-processing (1ms)
+2025-8-3 23:44:24-debug: asset-db-hook-engine-extends-afterRefresh (1ms)
+2025-8-3 23:44:38-debug: refresh db internal success
+2025-8-3 23:44:38-debug: refresh db assets success
+2025-8-3 23:44:38-debug: Run asset db hook engine-extends:afterRefresh ...
+2025-8-3 23:44:38-debug: Run asset db hook engine-extends:afterRefresh success!
+2025-8-3 23:44:38-debug: asset-db:refresh-all-database (18ms)
+2025-8-3 23:45:34-debug: Cannot find the asset handler of operate open for importer video-clip
+2025-8-3 23:45:41-debug: refresh db internal success
+2025-8-3 23:45:41-debug: refresh db assets success
+2025-8-3 23:45:41-debug: Run asset db hook engine-extends:afterRefresh ...
+2025-8-3 23:45:41-debug: Run asset db hook engine-extends:afterRefresh success!
+2025-8-3 23:45:41-debug: asset-db:refresh-all-database (27ms)
+2025-8-3 23:45:41-debug: asset-db-hook-engine-extends-afterRefresh (1ms)
+2025-8-3 23:51:33-debug: refresh db internal success
+2025-8-3 23:51:33-debug: refresh db assets success
+2025-8-3 23:51:33-debug: Run asset db hook engine-extends:afterRefresh ...
+2025-8-3 23:51:33-debug: Run asset db hook engine-extends:afterRefresh success!
+2025-8-3 23:51:33-debug: asset-db-hook-engine-extends-afterRefresh (1ms)
+2025-8-3 23:51:33-debug: asset-db:refresh-all-database (34ms)
+2025-8-3 23:51:33-debug: asset-db:worker-effect-data-processing (1ms)

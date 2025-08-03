@@ -1,1 +1,8 @@
-{}
+{
+  "disable-packages": {
+    "/Users/bytedance/Documents/trae_code/Cocos/Project_pop/extensions/localization-editor": {
+      "name": "localization-editor",
+      "time": 1754236706885
+    }
+  }
+}
