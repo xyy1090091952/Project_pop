@@ -1,0 +1,9 @@
+{
+    "systemInfo": {
+        "arch": "arm64",
+        "cpu": "Apple M3 Pro",
+        "version": "Darwin Kernel Version 24.5.0: Tue Apr 22 19:54:29 PDT 2025; root:xnu-11417.121.6~2/RELEASE_ARM64_T6030"
+    },
+    "sceneListMap": {},
+    "deviceMd5": "b16fbc3b7cd635e21a663badc65d9179"
+}
